@@ -2,11 +2,11 @@
 <level>
   <owner>wolskp</owner>
   <repo>first</repo>
-  <version>v1.0.1</version>
-  <next number="1" owner="stolbitsa" repo="master-and-servant-octaves"/>
+  <version>v1.0.2</version>
+  <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <en>6feefb61713b40d075183aac5eace409bd967c12fa23e8d40182e0952ec3fc41</en>
-    <ru>eece76e22f8935e0188b2eafce111ad2d47993aef545ed236816c529e49fb48a</ru>
+    <ru>166246fa698a25c5376d57a25ed662d6515c2407a80d48a338159c972bd33ded</ru>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -14,7 +14,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>10</tonalities>
-    <video name="neon-girl.mp4" size="1695796" type="video/mp4" volume="1">5d8f879efaca19fbc1ee1d196782a19328d9e166d83e0c66e24dc18fa620075f</video>
+    <video name="neon-girl.mp4" size="1695796" type="video/mp4" volume="0">5d8f879efaca19fbc1ee1d196782a19328d9e166d83e0c66e24dc18fa620075f</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -36,7 +36,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="dance_silent1.mp4" size="1056551" type="video/mp4" volume="1">3a80b8bf7d9f7e24b44c6b0c3182a9772a1d68aefda03bcc305d651e7be9c75a</video>
+    <video name="dance_silent1.mp4" size="1056551" type="video/mp4" volume="0">3a80b8bf7d9f7e24b44c6b0c3182a9772a1d68aefda03bcc305d651e7be9c75a</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -49,6 +49,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="neon-girl1_.mp4" size="1699893" type="video/mp4" volume="0">ec1142e3ef5c95c56679dd3fffdbaadad7eb63a698c2248bda5c9778c2a5ef0b</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -61,6 +62,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="neon-girl2_.mp4" size="1789822" type="video/mp4" volume="0">55031cc7525020580e036e88c8b97d936ce3ec4279a817bf1545c83ef69829aa</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -84,6 +86,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="neon-girl3_.mp4" size="1732115" type="video/mp4" volume="0">d3028f4dc27384cc8300639f64c43da9d01a4b5030e4e719ec7e6e234ff0e4db</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -96,6 +99,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="neon-girl4_.mp4" size="1790347" type="video/mp4" volume="0">c9d4b621f1fa9341da4b78b18a0f50f4e3fbb963f7489635ac28e6380f86ef5e</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -119,6 +123,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="neon-girl5_.mp4" size="1721343" type="video/mp4" volume="0">b3d54d93bb991c9cdafd804111f6f37dc385eb994b49670766d5d0ba8bc1f884</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
