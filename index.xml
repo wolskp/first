@@ -2,7 +2,7 @@
 <level>
   <owner>wolskp</owner>
   <repo>first</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <ru>166246fa698a25c5376d57a25ed662d6515c2407a80d48a338159c972bd33ded</ru>
@@ -10,7 +10,8 @@
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
-    <scale>major</scale>
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>10</tonalities>
@@ -32,7 +33,8 @@
     </notes>
   </exercise>
   <exercise number="3">
-    <scale>major</scale>
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
