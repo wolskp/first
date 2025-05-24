@@ -2,7 +2,7 @@
 <level>
   <owner>wolskp</owner>
   <repo>first</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="stolbitsa" repo="twinkle"/>
   <readme>
     <ru>166246fa698a25c5376d57a25ed662d6515c2407a80d48a338159c972bd33ded</ru>
@@ -15,7 +15,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>10</tonalities>
-    <video name="1551f32f-387b-43d1-9d04-d351f934965f.mp4" size="1695796" type="video/mp4" volume="1">5d8f879efaca19fbc1ee1d196782a19328d9e166d83e0c66e24dc18fa620075f</video>
+    <video name="медузы_.mp4" size="1634436" type="video/mp4" volume="1">1f19df66509a8e27e3cd87a0629bd61630342bdad801e9b6ce5322aff74c95a5</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
